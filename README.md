@@ -1,4 +1,4 @@
-# 🍕 PizzaPulse – Pizza Sales Analysis Dashboard (Excel)
+# 🍕 Pizza Sales –Analysis Dashboard (Excel)
 
 > **Note:** The business problem in this project is a **hypothetical scenario** created to practice and showcase beginner-level data analysis skills. It is not a real company case.
 
@@ -40,8 +40,10 @@ Full step-by-step instructions are in [`pivot_table_steps.txt`](pivot_table_step
 
 The dashboard combines the pivot charts and KPI cards in one sheet, with **slicers** for `pizza_category`, `pizza_size`, and a **timeline** for `order_date`, so the owner can filter everything with one click.
 
-![Dashboard](images/dashboard.png)
-![Pivot Tables](images/pivot_tables.png)
+<img width="935" height="297" alt="Screenshot 2026-11-22 070024" src="https://github.com/user-attachments/assets/324a461c-5364-48c5-af56-3444673bef84" />
+
+<img width="704" height="251" alt="Screenshot 2026-11-22 211244" src="https://github.com/user-attachments/assets/10e9bb73-5b6f-4a5c-9dfa-bd86d1ac79da" />
+
 
 ### Dashboard components
 
